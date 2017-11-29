@@ -1,0 +1,3 @@
+Compile with make. To execute program, use
+# ./main [# of vertices] [s or d]
+For sparse graphs (8 edges), use s. For dense (20% connected), use d.
